@@ -7,23 +7,23 @@ background-color: rgb(235, 202, 160);
 }
 main {
     background-color: white;
-    width: 300; 
+    width: auto;
     margin: auto;
     padding: 10px;
+    height: auto;
+    box-sizing: content-box;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.431);
 }
 h1 {
-    font-size: 3cm;
-    color: blue;
-    text-align: center;
-}
-
-    
-h2 {
-    font-size: 2,5cm;
+    font-size:50px;
     color: black;
+    text-align: left;
 }
 
-img.lado {
-    float:right ;
+    h2 {
+    font-size: 20px;
+    color: black;
+    text-align: left;
 }
+
+
